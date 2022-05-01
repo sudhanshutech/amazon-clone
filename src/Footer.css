@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka&family=Open+Sans&family=Poppins:wght@300;400&family=Source+Sans+Pro:wght@300&display=swap');
+
+.main_footer{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: #232F3E;
+    color: white;
+    margin-bottom: 0;
+    margin-top: 10px;
+    padding-bottom: 0;
+    min-width: 1000px;
+    position: relative;
+    height: 250px;
+}
+
+.footer_heading2{
+    font-size: 14px;
+}
+
+.footer_heading1{
+    font-weight: 700;
+    font-family: 'Fredoka', sans-serif;
+}
+
+.footer_sectionOne{
+    display: inline-block;
+    line-height: 30px;
+    margin-top: 20px;
+
+}
+
+.footer_sectionTwo{
+    display: inline-block;
+    line-height: 30px;
+    margin-top: 20px;
+}
+
+.footer_sectionThree{
+    display: inline-block;
+    line-height: 30px;
+    margin-top: 20px;
+}
+
+.footer_sectionFour{
+    display: inline-block;
+    line-height:30px;
+    margin-top: 20px;
+}
+
+.bottom_footer{
+display: flex;
+justify-content: center;
+font-size: 11px;
+background-color: #131A22;
+color: white;
+height: 40px;
+padding-top: 7px;
+}
+
+.bottom_footer_sectionOne{
+    display: inline-block;
+}
+
+.bottom_footer_sectionTwo{
+    display: inline-block;
+}
+
+.bottom_footer_sectionThree{
+    display: inline-block;
+}
+
+.bottom_footer_sectionFour{
+    display: inline-block;
+}
+
+.bottom_footer_heading{
+    padding-left: 10px;
+}
