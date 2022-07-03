@@ -18,7 +18,7 @@ function Checkout() {
       <div className="checkout_left">
         <img
           className="add"
-          src="https://images-eu.ssl-images-amazon.com/images/G/31/img19/AmazonPay/PrimeRewards/LP_Revamp/PC_Header_Banner._CB468631809_.jpg"
+          src="https://www.hp.com/us-en/shop/app/assets/images/uploads/prod/ecommerce-vs-online-marketplace1603983748724190.jpg"
           alt=""
         />
 

@@ -7,7 +7,7 @@ export default function Home() {
       <div className="home_container">
         <img
           className="home_image"
-          src="https://images-eu.ssl-images-amazon.com/images/G/02/digital/video/merch2016/Hero/Covid19/Generic/GWBleedingHero_ENG_COVIDUPDATE__XSite_1500x600_PV_en-GB._CB428684220_.jpg"
+          src="https://images-eu.ssl-images-amazon.com/images/G/31/img22/Gateway/CEPC/Hero/Pendrives/July/D50024250_IN_PC-Pendrive-hero-July22-Creatives_3000x1200._CB634170599_.jpg"
           alt="hello"
         />
 

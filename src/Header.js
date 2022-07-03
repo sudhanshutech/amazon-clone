@@ -5,7 +5,8 @@ import ShoppingBasketIcon from "@material-ui/icons/ShoppingBasket";
 import { Link } from "react-router-dom";
 import { useStateValue } from "./StateProvider";
 import { auth } from "./firebase";
-import LocationOnOutlinedIcon from '@material-ui/icons/LocationOnOutlined';
+
+// import LocationOnOutlinedIcon from '@material-ui/icons/LocationOnOutlined';
 // import { getAuth, signOut } from "firebase/auth";
 
 // import {signOut} from 'firebase/auth';
@@ -24,18 +25,13 @@ export default function Header() {
       <Link to="/">
         <img
           className="header_logo"
-          src="https://pngimg.com/uploads/amazon/amazon_PNG11.png"
+          src="https://o.remove.bg/downloads/ffc8bb3b-2fbc-4cea-9430-23ce4f8eeaeb/shopIt__1_-removebg-preview.png"
           alt="hello"
         />
       </Link>
-      <div className="header_address">
-      <span className="address_line1">Hello</span>
-      {/* <LocationOnOutlinedIcon className="address_icon"/> */}
-          <span className="address_line2">Select your address</span>
-      </div>
-
+     
       <div className="header_search">
-        <input className="header_searchInput" type="text" />
+        <input className="header_searchInput" type="text" placeholder="Seacrh for your product"/>
         <SearchIcon className="header_searchIcon" />
       </div>
 
@@ -53,10 +49,6 @@ export default function Header() {
           <span className="line2">& Orders</span>
         </div>
 
-        <div className="header_option">
-          <span className="line1">Your</span>
-          <span className="line2">Prime</span>
-        </div>
 
         <Link to="/checkout">
           <div className="basket">

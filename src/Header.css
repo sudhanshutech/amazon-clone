@@ -5,14 +5,14 @@
     height: 60px;
     display: flex;
     align-items: center;
-    background-color:black;
+    background-color:rgb(52, 48, 48);
     position: sticky;
     top: 0;
     z-index: 100;
 }
 
 .header_logo{
-    width: 100px;
+    width: 180px;
     object-fit: contain;
     margin: 0 20px;
     margin-top: 18px;
@@ -53,13 +53,15 @@
   height: 12px;
   padding: 10px;
   border: none;
-  width: 100%; 
+  width: 90%; 
+  background-color: rgba(255, 255, 255, 0.74);
+  color: black;
 }
 
 .header_searchIcon{
     padding: 5px;
     height: 22px !important;
-    background-color: #cd9042;
+    background-color: #bfcd42;
 }
 
 .line1{

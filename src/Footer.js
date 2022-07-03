@@ -10,7 +10,7 @@ function footer() {
             <p className='footer_heading2'>About Us</p>
             <p className='footer_heading2'>Carrers</p>
             <p className='footer_heading2'>Press Releases</p>
-            <p className='footer_heading2'>Amazon Cares</p>
+            <p className='footer_heading2'>shopIt Cares</p>
             <p className='footer_heading2'>Gift a Smile</p>
 
         </div>
@@ -25,22 +25,19 @@ function footer() {
 
         <div className='footer_sectionThree'>
         <p className='footer_heading1'>Make Money with Us</p>
-            <p className='footer_heading2'>Sell on Amazon</p>
-            <p className='footer_heading2'>Sell under Amazon Accelerator</p>
-            <p className='footer_heading2'>Amazon Global Selling</p>
+            <p className='footer_heading2'>Sell on shopIt</p>
+            <p className='footer_heading2'>Sell under shopIt Accelerator</p>
             <p className='footer_heading2'>Become an Affiliate</p>
-            <p className='footer_heading2'>Fulfilment by Amazon</p>
             <p className='footer_heading2'>Advertise Your Products</p>
             
         </div>
 
         <div className='footer_sectionFour'>
         <p className='footer_heading1'>Let Us Help You</p>
-            <p className='footer_heading2'>COVID-19 and Amazon</p>
             <p className='footer_heading2'>Your Account</p>
             <p className='footer_heading2'>Returns Centre</p>
             <p className='footer_heading2'>100% Purchase Protection</p>
-            <p className='footer_heading2'>Amazon App Download</p>
+            <p className='footer_heading2'>shopIt App Download</p>
             <p className='footer_heading2'>Help</p>
             
         </div>
@@ -58,7 +55,7 @@ function footer() {
         <p className='bottom_footer_heading'>Interest-Based ads</p>
       </div>
       <div className='bottom_footer_sectionFour'>
-        <p className='bottom_footer_heading'>© 19696-2022, Amazon.com, Inc. or its affiliates</p>
+        <p className='bottom_footer_heading'>© 19696-2022, shopIt.com, Inc. or its affiliates</p>
       </div>
 
     </div>
